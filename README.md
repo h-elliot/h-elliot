@@ -55,6 +55,8 @@
 </p>
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-elliot&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 <a href="#" title="Go to Source">
       <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=h-elliot&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
@@ -66,6 +68,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-elliot&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
