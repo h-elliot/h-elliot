@@ -38,7 +38,6 @@
   ![Adobecreatecloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?logo=Adobe%20Creative%20Cloud&style=plastic&logoColor=white)
 ##
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-elliot&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 <p align="center">
   <a href="https://github.com/shadowbq?tab=followers">
@@ -52,7 +51,6 @@
   </a>
 </p>
 -->
-
 ##
 <div align=center>
 <a href="#" title="Go to Source">
