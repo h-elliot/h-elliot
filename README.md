@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Hunter</h1>
-<h3 align="center">A passionate full stack developer from New York</h3>
+<h3 align="center">A passionate Web developer from New York</h3>
 
 ![I am a individual Full-Stack Developer.](https://csj-ng.org/wp-content/uploads/2014/03/website-construction-banner.jpg)
 
