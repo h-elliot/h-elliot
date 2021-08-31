@@ -2,7 +2,7 @@
 
 ![I am a individual Full-Stack Developer.](https://csj-ng.org/wp-content/uploads/2014/03/website-construction-banner.jpg)
 
-I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
+⚡ Detail-oriented ⚡ Fast learner ⚡ Resourceful developer ⚡
 
 - 🚀 I use daily:
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
