@@ -54,10 +54,10 @@
 ##
 <div align=center>
 <a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=h-elliot&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
+      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=huntercwork&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
  </a>
 <a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=h-elliot&theme=react&border=00dafb&fire=DDB80F"/>
+      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=huntercwork&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
 
